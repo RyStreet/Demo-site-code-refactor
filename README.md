@@ -1,7 +1,9 @@
 Description
-This project is a code refactor challenge to improve and optimize this example website's HTML and CSS
+This project is a code refactor challenge to improve and optimize this example website's HTML and CSS.
 
 My motivation for this project was to improve the functionality and semantic structure of Horiseon's source code.
+
+Changes to the HTML and CSS can be found within the comments of the source code.
 
 Installation
 N/A
