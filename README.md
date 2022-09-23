@@ -6,7 +6,7 @@ My motivation for this project was to improve the functionality and semantic str
 
 Changes to the HTML and CSS can be found within the comments of the source code.
 
-Link to uploaded project: https://rystreet.github.io/ryans-module-1/
+Link to uploaded project: https://rystreet.github.io/Horiseon-code-refactor/
 
 Screenshots
 
